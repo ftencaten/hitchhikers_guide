@@ -8,6 +8,8 @@ this material as visible as possible so it can help other researchers navigate
 the intricacies of bioinformatics analysis and easily find those planning charts 
 that have been sitting at the local planning department in Alpha Centauri for years.
 
+Don't Panic!
+
 # Linear Models for Microarray and RNA-Seq Data User’s Guide
 https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
 
