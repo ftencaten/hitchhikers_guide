@@ -10,6 +10,9 @@ that have been sitting at the local planning department in Alpha Centauri for ye
 
 Don't Panic!
 
+# RStudio Education
+https://education.rstudio.com/
+
 # Linear Models for Microarray and RNA-Seq Data User’s Guide
 https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
 
