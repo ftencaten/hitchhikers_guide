@@ -19,6 +19,9 @@ https://mikelove.github.io/pages/teaching.html
 # Linear Models for Microarray and RNA-Seq Data User’s Guide
 https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
 
+# Feature selection with Lasso models
+https://glmnet.stanford.edu/
+
 # Computational Genomics with R
 https://compgenomr.github.io/book/
 
