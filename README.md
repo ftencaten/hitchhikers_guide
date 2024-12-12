@@ -21,6 +21,9 @@ https://r4ds.hadley.nz/
 **Michael Love's teaching notes** 
 https://mikelove.github.io/pages/teaching.html
 
+**Common statistical tests are linear models**
+https://lindeloev.github.io/tests-as-linear/
+
 **Linear Models for Microarray and RNA-Seq Data User’s Guide**
 https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
 
