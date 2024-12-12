@@ -11,35 +11,40 @@ have been sitting at the local planning department in Alpha Centauri for years.
 **Don't Panic!**
 
 ## R
-### RStudio Education
+**RStudio Education**
 https://education.rstudio.com/
 
 ## Statistics
-### Michael Love's teaching notes 
+**Michael Love's teaching notes** 
 https://mikelove.github.io/pages/teaching.html
 
-### Linear Models for Microarray and RNA-Seq Data User’s Guide
+**Linear Models for Microarray and RNA-Seq Data User’s Guide**
 https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
 
 ## Single-cell analysis
-### Single-cell best practices
+**Single-cell best practices**
 https://www.sc-best-practices.org/preamble.html
 
-### Orchestrating Single-Cell Analysis with Bioconductor
+**Orchestrating Single-Cell Analysis with Bioconductor**
 https://bioconductor.org/books/release/OSCA/
 
-### Seurat vignettes
+**Seurat vignettes**
 https://satijalab.org/seurat/articles/ 
 
 ## Miscellaneous
-### Computational Genomics with R
+**Computational Genomics with R**
 https://compgenomr.github.io/book/
 
 ## Specific analysis and Visualizations
-### GSEA + ORA
+**Heatmaps**
+https://jokergoo.github.io/ComplexHeatmap-reference/book/
+
+**GSEA + ORA**
 https://bioconductor.org/packages/release/bioc/vignettes/clusterProfiler/inst/doc/clusterProfiler.html
 
-### Feature selection with Lasso models
+**Feature selection with Lasso models**
 https://glmnet.stanford.edu/
+
+
 
 
