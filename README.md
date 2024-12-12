@@ -14,6 +14,9 @@ have been sitting at the local planning department in Alpha Centauri for years.
 **RStudio Education**
 https://education.rstudio.com/
 
+**R for Data Science**
+https://r4ds.hadley.nz/
+
 ## Statistics
 **Michael Love's teaching notes** 
 https://mikelove.github.io/pages/teaching.html
