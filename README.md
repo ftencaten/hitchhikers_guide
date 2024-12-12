@@ -24,6 +24,9 @@ https://mikelove.github.io/pages/teaching.html
 **Linear Models for Microarray and RNA-Seq Data User’s Guide**
 https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
 
+**A guide to creating design matrices for gene expression experiments**
+https://f1000research.com/articles/9-1444
+
 ## Single-cell analysis
 **Single-cell best practices**
 https://www.sc-best-practices.org/preamble.html
