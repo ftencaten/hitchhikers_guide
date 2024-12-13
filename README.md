@@ -45,6 +45,9 @@ https://satijalab.org/seurat/articles/
 https://compgenomr.github.io/book/
 
 ## Specific analysis and Visualizations
+**From Data to Viz**
+https://www.data-to-viz.com/
+
 **Heatmaps**
 https://jokergoo.github.io/ComplexHeatmap-reference/book/
 
