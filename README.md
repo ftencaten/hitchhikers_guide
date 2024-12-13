@@ -17,6 +17,9 @@ https://education.rstudio.com/
 **R for Data Science**
 https://r4ds.hadley.nz/
 
+**Happy Git and GitHub for the useR**
+https://happygitwithr.com/
+
 ## Statistics
 **Michael Love's teaching notes** 
 https://mikelove.github.io/pages/teaching.html
