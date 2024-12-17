@@ -27,11 +27,21 @@ https://mikelove.github.io/pages/teaching.html
 **Common statistical tests are linear models**
 https://lindeloev.github.io/tests-as-linear/
 
+**An Introduction to Statistical Learning**
+https://www.statlearning.com/
+
+## Bulk RNA-seq analysis
+**A guide to creating design matrices for gene expression experiments**
+https://f1000research.com/articles/9-1444
+
 **Linear Models for Microarray and RNA-Seq Data User’s Guide**
 https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
 
-**A guide to creating design matrices for gene expression experiments**
-https://f1000research.com/articles/9-1444
+**edgeR User's Guide**
+https://bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf
+
+**Analyzing RNA-seq data with DESeq2**
+https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html
 
 ## Single-cell analysis
 **Single-cell best practices**
@@ -42,6 +52,13 @@ https://bioconductor.org/books/release/OSCA/
 
 **Seurat vignettes**
 https://satijalab.org/seurat/articles/ 
+
+## Microbiome analysis
+**phyloseq: Explore microbiome profiles using R**
+https://joey711.github.io/phyloseq/
+
+**Introduction to the microbiome R package**
+https://microbiome.github.io/tutorials/
 
 ## Miscellaneous
 **Computational Genomics with R**
