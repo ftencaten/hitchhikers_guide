@@ -68,6 +68,9 @@ https://compgenomr.github.io/book/
 **From Data to Viz**
 https://www.data-to-viz.com/
 
+**Plotting PCA (Principal Component Analysis)**
+https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html
+
 **Heatmaps**
 https://jokergoo.github.io/ComplexHeatmap-reference/book/
 
